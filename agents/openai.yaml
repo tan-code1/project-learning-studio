@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目学习工作台"
+  short_description: "从技能目标与选题，到中文教程、Obsidian、Jupyter 和学习进度面板"
+  default_prompt: "使用 $project-learning-studio，把我想学的技能做成可运行、可讲解、可记录进度的项目课程，并落地到 Obsidian 和 Jupyter。"
