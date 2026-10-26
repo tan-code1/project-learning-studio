@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "courseId": "sample-data-project",
+  "title": "示例数据分析入门",
+  "description": "仅示范清单格式；生成课程时替换为真实选题和现有文件。",
+  "skills": [
+    {
+      "id": "python",
+      "label": "Python"
+    },
+    {
+      "id": "visualization",
+      "label": "可视化"
+    }
+  ],
+  "items": [
+    {
+      "id": "lesson-01",
+      "kind": "lesson",
+      "order": 1,
+      "group": "第一阶段",
+      "title": "环境与路径",
+      "lecture": "每日课程/01_环境与路径.md",
+      "notebook": "notebooks/01_环境与路径.ipynb",
+      "skills": [
+        "python"
+      ]
+    },
+    {
+      "id": "lesson-02",
+      "kind": "lesson",
+      "order": 2,
+      "group": "第一阶段",
+      "title": "读取表格并绘图",
+      "lecture": "每日课程/02_读取表格并绘图.md",
+      "notebook": "notebooks/02_读取表格并绘图.ipynb",
+      "skills": [
+        "python",
+        "visualization"
+      ]
+    },
+    {
+      "id": "review-01",
+      "kind": "review",
+      "order": 3,
+      "group": "第一阶段",
+      "title": "独立复习",
+      "lecture": "复习练习/01_独立复习.md",
+      "notebook": null,
+      "skills": [
+        "python",
+        "visualization"
+      ]
+    }
+  ]
+}
